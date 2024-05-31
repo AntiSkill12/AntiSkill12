@@ -29,7 +29,7 @@
 
 <p align="left">
 <a href="https://github.com/AntiSkill12">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bil03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bil03&layout=compact&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntiSkill12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AntiSkill12&layout=compact&theme=algolia"/>
 </a>
 </p>
