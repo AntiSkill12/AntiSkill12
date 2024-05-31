@@ -3,8 +3,8 @@
 ## About Me :
 - 👨‍💻 Bangkit Academy Cohort 2024 - Cloud Computing
 - 🌱 I'm currently learning in Sekolah Tinggi Teknologi Indonesia Tanjung Pinang
-- 💬 Ask me about [Instagram](https://instagram.com/catkoo_)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/catkoo)
+- 💬 Ask me about [Instagram](https://www.instagram.com/riafky/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-riafky-novalyansyah)
   
 <p align="center"> 
   Visitor count<br>
