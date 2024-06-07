@@ -8,7 +8,7 @@
   
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/username/count.svg" />
+  <img src="https://profile-counter.glitch.me/AntiSkill12/count.svg" />
 </p>
 
 ## Tech Stack
