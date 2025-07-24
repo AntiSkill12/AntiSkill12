@@ -6,10 +6,7 @@
 - 💬 Ask me about [Instagram](https://www.instagram.com/riafky/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-riafky-novalyansyah)
   
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AntiSkill12/count.svg" />
-</p>
+
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
