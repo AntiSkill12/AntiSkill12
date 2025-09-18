@@ -32,6 +32,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AntiSkill12&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiSkill12&layout=compact&theme=algolia&hide_border=true"/>
+</p>
+
 ---
 
 ## 🌍 Visitors
