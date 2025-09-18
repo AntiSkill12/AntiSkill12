@@ -31,11 +31,5 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🔗 [IoT Tomato Disease Detection](https://github.com/AntiSkill12/IoT-Tomato-Detection)  
-- 🌐 [Personal Portfolio Website](https://github.com/AntiSkill12/portfolio)  
-
----
-
 ## 🌍 Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=AntiSkill12&label=Profile%20views&color=0e75b6&style=flat)
