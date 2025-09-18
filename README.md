@@ -5,7 +5,7 @@
 - 🎓 Bangkit Academy Cohort 2024 - Cloud Computing  
 - 🌱 Student at **Sekolah Tinggi Teknologi Indonesia Tanjung Pinang**  
 - 🚀 Passionate about **Cloud Computing, AI, and Backend Development**  
-- 💬 Ask me about [Instagram](https://www.instagram.com/riafky/)  
+- 💬 Ask me on [Instagram](https://www.instagram.com/riafky/)  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muhammad-riafky-novalyansyah)  
 
 ---
@@ -24,17 +24,10 @@
 
 ---
 
-## 📊 My GitHub Statistics
-<p align="left">
-  <a href="https://github.com/AntiSkill12">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntiSkill12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AntiSkill12&layout=compact&theme=algolia"/>
-  </a>
-</p>
-
-<p align="left">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AntiSkill12&theme=algolia"/>
-</p>
+## 📊 GitHub Stats
+![Riafky's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntiSkill12&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntiSkill12&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=AntiSkill12&theme=tokyonight)
 
 ---
 
@@ -45,6 +38,4 @@
 ---
 
 ## 🌍 Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AntiSkill12.AntiSkill12)
-
----
+![Profile views](https://komarev.com/ghpvc/?username=AntiSkill12&label=Profile%20views&color=0e75b6&style=flat)
